@@ -1,0 +1,6 @@
+C:\Users\igor_\source\repos\IndividualWork\IndividualWork\Debug\IndividualWork.vcxprojAssemblyReference.cache
+C:\Users\igor_\source\repos\IndividualWork\IndividualWork\Debug\IndividualWork.MyForm.resources
+C:\Users\igor_\source\repos\IndividualWork\IndividualWork\Debug\IndividualWork.vcxproj.GenerateResource.cache
+C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\Debug\IndividualWork.MyForm.resources
+C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxproj.GenerateResource.cache
+C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxproj.AssemblyReference.cache

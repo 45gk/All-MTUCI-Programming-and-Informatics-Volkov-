@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\igor_\source\repos\IndividualWork\IndividualWork\MyForm.h(690,13): warning C4101: num: неиспользованная локальная переменная
+C:\Users\igor_\source\repos\IndividualWork\IndividualWork\MyForm.h(792,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\igor_\source\repos\IndividualWork\IndividualWork\MyForm.h(1045,16): warning C4101: max: неиспользованная локальная переменная
+C:\Users\igor_\source\repos\IndividualWork\IndividualWork\MyForm.h(1045,11): warning C4101: min: неиспользованная локальная переменная
+C:\Users\igor_\source\repos\IndividualWork\IndividualWork\MyForm.h(1044,11): warning C4101: diff: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  IndividualWork.vcxproj -> C:\Users\igor_\source\repos\IndividualWork\Debug\IndividualWork.exe

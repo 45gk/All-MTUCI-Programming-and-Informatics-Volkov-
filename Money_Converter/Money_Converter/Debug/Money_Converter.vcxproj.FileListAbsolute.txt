@@ -1,0 +1,6 @@
+C:\Users\MSI_PC\source\repos\Money_Converter\Money_Converter\Debug\Money_Converter.vcxprojAssemblyReference.cache
+C:\Users\MSI_PC\source\repos\Money_Converter\Money_Converter\Debug\MoneyConverter.MyForm.resources
+C:\Users\MSI_PC\source\repos\Money_Converter\Money_Converter\Debug\Money_Converter.vcxproj.GenerateResource.cache
+C:\Users\igor_\source\repos\Money_Converter\Money_Converter\Debug\Money_Converter.vcxprojAssemblyReference.cache
+C:\Users\igor_\source\repos\Money_Converter\Money_Converter\Debug\MoneyConverter.MyForm.resources
+C:\Users\igor_\source\repos\Money_Converter\Money_Converter\Debug\Money_Converter.vcxproj.GenerateResource.cache

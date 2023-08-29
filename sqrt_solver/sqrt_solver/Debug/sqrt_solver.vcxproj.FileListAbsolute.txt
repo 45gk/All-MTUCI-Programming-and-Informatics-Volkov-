@@ -1,0 +1,6 @@
+C:\Users\MSI_PC\source\repos\sqrt_solver\sqrt_solver\Debug\sqrt_solver.vcxprojAssemblyReference.cache
+C:\Users\MSI_PC\source\repos\sqrt_solver\sqrt_solver\Debug\sqrtsolver.MyForm.resources
+C:\Users\MSI_PC\source\repos\sqrt_solver\sqrt_solver\Debug\sqrt_solver.vcxproj.GenerateResource.cache
+C:\Users\igor_\source\repos\sqrt_solver\sqrt_solver\Debug\sqrt_solver.vcxprojAssemblyReference.cache
+C:\Users\igor_\source\repos\sqrt_solver\sqrt_solver\Debug\sqrtsolver.MyForm.resources
+C:\Users\igor_\source\repos\sqrt_solver\sqrt_solver\Debug\sqrt_solver.vcxproj.GenerateResource.cache

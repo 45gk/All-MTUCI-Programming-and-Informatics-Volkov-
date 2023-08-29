@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\igor_\source\repos\Money_Converter\Money_Converter\MyForm.h(485,9): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\igor_\source\repos\Money_Converter\Money_Converter\MyForm.h(507,9): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Money_Converter.vcxproj -> C:\Users\igor_\source\repos\Money_Converter\Debug\Money_Converter.exe

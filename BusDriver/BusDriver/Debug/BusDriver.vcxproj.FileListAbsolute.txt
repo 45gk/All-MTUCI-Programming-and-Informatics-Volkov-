@@ -1,0 +1,3 @@
+C:\Users\igor_\source\repos\BusDriver\BusDriver\Debug\BusDriver.vcxprojAssemblyReference.cache
+C:\Users\igor_\source\repos\BusDriver\BusDriver\Debug\BusDriver.MyForm.resources
+C:\Users\igor_\source\repos\BusDriver\BusDriver\Debug\BusDriver.vcxproj.GenerateResource.cache

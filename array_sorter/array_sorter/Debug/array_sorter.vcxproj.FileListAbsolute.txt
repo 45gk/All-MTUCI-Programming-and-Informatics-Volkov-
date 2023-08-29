@@ -1,0 +1,3 @@
+C:\Users\igor_\source\repos\array_sorter\array_sorter\Debug\array_sorter.vcxprojAssemblyReference.cache
+C:\Users\igor_\source\repos\array_sorter\array_sorter\Debug\arraysorter.MyForm.resources
+C:\Users\igor_\source\repos\array_sorter\array_sorter\Debug\array_sorter.vcxproj.GenerateResource.cache

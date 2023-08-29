@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\igor_\source\repos\sqrt_solver\sqrt_solver\MyForm.h(387,10): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\igor_\source\repos\sqrt_solver\sqrt_solver\MyForm.h(414,9): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\igor_\source\repos\sqrt_solver\sqrt_solver\MyForm.h(447,9): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  sqrt_solver.vcxproj -> C:\Users\igor_\source\repos\sqrt_solver\Debug\sqrt_solver.exe

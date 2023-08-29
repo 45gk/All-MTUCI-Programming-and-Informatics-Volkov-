@@ -1,0 +1,6 @@
+C:\Users\MSI_PC\source\repos\exp_solver\exp_solver\Debug\exp_solver.vcxprojAssemblyReference.cache
+C:\Users\MSI_PC\source\repos\exp_solver\exp_solver\Debug\expsolver.MyForm.resources
+C:\Users\MSI_PC\source\repos\exp_solver\exp_solver\Debug\exp_solver.vcxproj.GenerateResource.cache
+C:\Users\igor_\source\repos\exp_solver\exp_solver\Debug\exp_solver.vcxprojAssemblyReference.cache
+C:\Users\igor_\source\repos\exp_solver\exp_solver\Debug\expsolver.MyForm.resources
+C:\Users\igor_\source\repos\exp_solver\exp_solver\Debug\exp_solver.vcxproj.GenerateResource.cache

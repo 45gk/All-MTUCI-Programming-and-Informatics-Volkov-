@@ -1,0 +1,7 @@
+﻿  FFirst.cpp
+C:\Users\igor_\source\repos\Calculator1\Calculator\FFirst.h(406,9): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\igor_\source\repos\Calculator1\Calculator\FFirst.h(447,9): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  FFirst.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.vcxproj -> C:\Users\igor_\source\repos\Calculator1\Debug\Calculator.exe

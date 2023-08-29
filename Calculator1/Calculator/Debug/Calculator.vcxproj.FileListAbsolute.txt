@@ -1,0 +1,9 @@
+C:\Users\igor_\source\repos\Calculator\Calculator\Debug\Calculator.vcxprojAssemblyReference.cache
+C:\Users\igor_\source\repos\Calculator\Calculator\Debug\Calculator.FFirst.resources
+C:\Users\igor_\source\repos\Calculator\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\MSI_PC\source\repos\Calculator\Calculator\Debug\Calculator.vcxprojAssemblyReference.cache
+C:\Users\MSI_PC\source\repos\Calculator\Calculator\Debug\Calculator.FFirst.resources
+C:\Users\MSI_PC\source\repos\Calculator\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\igor_\source\repos\Calculator1\Calculator\Debug\Calculator.vcxprojAssemblyReference.cache
+C:\Users\igor_\source\repos\Calculator1\Calculator\Debug\Calculator.FFirst.resources
+C:\Users\igor_\source\repos\Calculator1\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache

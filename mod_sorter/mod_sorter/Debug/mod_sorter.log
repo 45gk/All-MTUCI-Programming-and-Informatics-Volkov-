@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(552,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(553,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(707,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(900,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(905,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(907,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(927,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(934,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(936,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(988,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(998,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(1006,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\igor_\source\repos\mod_sorter\mod_sorter\MyForm.h(1012,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  mod_sorter.vcxproj -> C:\Users\igor_\source\repos\mod_sorter\Debug\mod_sorter.exe

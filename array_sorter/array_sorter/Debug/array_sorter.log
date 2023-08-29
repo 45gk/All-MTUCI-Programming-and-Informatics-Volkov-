@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\igor_\source\repos\array_sorter\array_sorter\MyForm.h(561,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\igor_\source\repos\array_sorter\array_sorter\MyForm.h(562,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\igor_\source\repos\array_sorter\array_sorter\MyForm.h(580,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\igor_\source\repos\array_sorter\array_sorter\MyForm.h(581,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\igor_\source\repos\array_sorter\array_sorter\MyForm.h(618,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\igor_\source\repos\array_sorter\array_sorter\MyForm.h(620,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  array_sorter.vcxproj -> C:\Users\igor_\source\repos\array_sorter\Debug\array_sorter.exe
