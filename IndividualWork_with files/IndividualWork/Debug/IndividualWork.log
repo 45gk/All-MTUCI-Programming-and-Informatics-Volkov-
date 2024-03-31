@@ -1,10 +1,20 @@
 ﻿  MyForm.cpp
-C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\MyForm.h(690,13): warning C4101: num: неиспользованная локальная переменная
-C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\MyForm.h(792,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
-C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\MyForm.h(1045,16): warning C4101: max: неиспользованная локальная переменная
-C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\MyForm.h(1045,11): warning C4101: min: неиспользованная локальная переменная
-C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\MyForm.h(1044,11): warning C4101: diff: неиспользованная локальная переменная
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(1040,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(1042,13): warning C4101: num: неиспользованная локальная переменная
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(1209,9): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(1296,9): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(1298,11): warning C4101: num: неиспользованная локальная переменная
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(1397,9): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(1399,11): warning C4101: num: неиспользованная локальная переменная
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(1495,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(2018,24): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(2027,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(2031,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(2054,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
   .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
   Создание кода...
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(1456): warning C4715: IndividualWork::MyForm::clearLine_P2: значение возвращается не при всех путях выполнения
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(1479): warning C4715: IndividualWork::MyForm::clearLine_P3: значение возвращается не при всех путях выполнения
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\MyForm.h(1781): warning C4715: IndividualWork::MyForm::clearLine_P1: значение возвращается не при всех путях выполнения
   MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  IndividualWork.vcxproj -> C:\Users\igor_\source\repos\IndividualWork_with files\Debug\IndividualWork.exe
+  IndividualWork.vcxproj -> C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\Debug\IndividualWork.exe

@@ -1,6 +1,18 @@
 C:\Users\igor_\source\repos\IndividualWork\IndividualWork\Debug\IndividualWork.vcxprojAssemblyReference.cache
 C:\Users\igor_\source\repos\IndividualWork\IndividualWork\Debug\IndividualWork.MyForm.resources
 C:\Users\igor_\source\repos\IndividualWork\IndividualWork\Debug\IndividualWork.vcxproj.GenerateResource.cache
+C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxprojAssemblyReference.cache
 C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\Debug\IndividualWork.MyForm.resources
 C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxproj.GenerateResource.cache
-C:\Users\igor_\source\repos\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxproj.AssemblyReference.cache
+D:\вОЛК\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxprojAssemblyReference.cache
+D:\вОЛК\IndividualWork_with files\IndividualWork\Debug\IndividualWork.MyForm.resources
+D:\вОЛК\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxproj.GenerateResource.cache
+F:\вОЛК\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxprojAssemblyReference.cache
+F:\вОЛК\IndividualWork_with files\IndividualWork\Debug\IndividualWork.MyForm.resources
+F:\вОЛК\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxproj.GenerateResource.cache
+F:\информатика\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxprojAssemblyReference.cache
+F:\информатика\IndividualWork_with files\IndividualWork\Debug\IndividualWork.MyForm.resources
+F:\информатика\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxproj.GenerateResource.cache
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\Debug\IndividualWork.MyForm.resources
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxproj.GenerateResource.cache
+C:\Users\igor_\OneDrive\Документы\IndividualWork_with files\IndividualWork\Debug\IndividualWork.vcxproj.AssemblyReference.cache
